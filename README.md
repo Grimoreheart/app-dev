@@ -1,8 +1,17 @@
 # My Favorite Movie
 
-!(image.jpg)(https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYmZlZDk4ODgtOTMzOS00ZjA3LTk5MjItODgyMjM1Y2YwNDk5XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg&tbnid=5sg6lgADjhBTTM&vet=12ahUKEwjYl5GVt-WCAxXW6qACHcUrBjsQMygDegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0131179%2F&docid=ZD_7Bfs_NjJTNM&w=1000&h=1500&q=detective%20conan&ved=2ahUKEwjYl5GVt-WCAxXW6qACHcUrBjsQMygDegQIARBy)
+![image](https://github.com/Grimoreheart/app-dev/assets/151589691/065f753d-8fad-4f87-98f5-1d9dd43db77c)
+
 
 # **Movie: "Detective  Conan**
   
+- Detective Conan is about a teenage detective named Shinichi Kudo, who is poisoned by an evil group called "The Black Organization". The poison was supposed to kill him. However, the poison instead turned him into a small child.
+- Shinichi Kudo	Jimmy Kudo	Main character of the series, and Ran's love interest and later boyfriend. He was shrunk into a child after being forced to take a drug called APTX 4869, which was created by the Black Organization.
+Conan Edogawa
+- Conan Edogawa	Conan Edogawa	"Child" version of Shinichi Kudo. He's after the Black Organization to regain his original body. The show follows his journey and the different cases he encounters along the way.
+- Ran Mouri	Ran Mouri	Rachel Moore	Shinichi's childhood friend, and later his girlfriend. She doesn't know Conan's real identity. She's the one taking care of him along with her detective father,
+-Kogoro. She is also skilled in karate.
+- Kogoro Mouri	Richard Moore	Private eye and Ran's father. Separated from Eri Kisaki, Ran's mother.
+
 
 

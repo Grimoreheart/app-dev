@@ -2,10 +2,10 @@
 
 ## My Favorite Movie
 
-![image](https://github.com/Grimoreheart/app-dev/assets/151589691/065f753d-8fad-4f87-98f5-1d9dd43db77c)
+# ![image](https://github.com/Grimoreheart/app-dev/assets/151589691/065f753d-8fad-4f87-98f5-1d9dd43db77c)
 
 
-## **Movie: "Detective  Conan**
+## **Movie: "Detective  Conan" **
   
 ## - Detective Conan is about a teenage detective named Shinichi Kudo, who is poisoned by an evil group called "The Black Organization". The poison was supposed to kill him. However, the poison instead turned him into a small child.
 ##  - Shinichi Kudo	Jimmy Kudo	Main character of the series, and Ran's love interest and later boyfriend. He was shrunk into a child after being forced to take a drug called APTX 4869, which was created by the Black Organization.

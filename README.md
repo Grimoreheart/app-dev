@@ -1,7 +1,1 @@
-```
-{
-  "Movie": "John Wick",
-  "Movie": "Detective  Conan",
-  
-}
-```
+ My first repository.
